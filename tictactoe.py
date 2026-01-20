@@ -97,6 +97,6 @@ def game():
             
 
         #refresh screen
-        #os.system('cls')
+        os.system('cls')
         
 game()
