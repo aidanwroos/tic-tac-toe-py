@@ -1,4 +1,4 @@
-#import os
+import os
 
 #global game board
 board = {7 : " ", 8 : " ", 9 : " ",
